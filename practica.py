@@ -15,7 +15,7 @@ numbers_api = "http://numbersapi.com"
 quiz_api = "http://jservice.io/api/random?count=1"
 
 # token
-TOKEN = "5567850249:AAH8OcCb03cxVnNPqca9YQ3f__HDCex_z_8"
+TOKEN = "TOKEN"
 bot = telebot.TeleBot(TOKEN)
 
 # keyboard main
