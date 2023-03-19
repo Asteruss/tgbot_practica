@@ -1,0 +1,4 @@
+pip~=23.0.1
+requests~=2.28.0
+pyTelegramBotAPI==4.9.0
+googletrans==3.1.0a0
